@@ -15,4 +15,6 @@ I want to improve my technical skills and work on larger, real-life projects. I 
 
 I believe Tech Expert Academy provides the hands-on training and mentorship I need to grow faster and reach my goal of becoming a confident data professional.
 
-## 
+## What 
+
+I aim to become a skilled data professional by gaining project experience in areas like data engineering or analytics. My goal is to solve real problems and keep learning throughout my career.
